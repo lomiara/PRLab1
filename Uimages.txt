@@ -6,6 +6,7 @@ md/wp-content/uploads/2016/11/apple-touch-icon-precomposed.png
 md/wp-content/uploads/2016/11/apple-touch-icon.png
 md/wp-content/uploads/2016/11/icon-regular.png
 md/wp-content/uploads/2018/12/utm-logo.png
+md/wp-content/uploads/2020/05/Ziua-Europei-Baner-site-facebook-postare-2020-01.jpg
 md/wp-content/uploads/2020/03/bac_2020-1500x430.jpg
 md/wp-content/uploads/2020/03/2020-03-05studentzi-site1-1500x430.jpg
 md/wp-content/uploads/2020/01/2020-UTMmd_banner_webometrics-site-1-2-1500x430.jpg
